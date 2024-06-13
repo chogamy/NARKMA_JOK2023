@@ -41,7 +41,7 @@ bash inference.sh
         <tr>
             <td >자동회귀 트랜스포머</td>
             <td > 97.72  </td>
-            <td> 95.85     </td>
+            <td> 95.95     </td>
             <td> 1.00x      </td>
         </tr>
         <tr>
